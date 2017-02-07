@@ -1,0 +1,23 @@
+
+  <root>
+    <author>
+      Wenbin Li
+    
+    </author>
+    <close>
+      false
+    
+    </close>
+    <deps>
+      ./Repository/BlockingQueue/1/BlockingQueue.cpp
+    </deps>
+    <deps>
+      ./Repository/BlockingQueue/1/BlockingQueue.h
+    </deps>
+    <deps>
+      ./Repository/SemiExp/1/SemiExp.cpp
+    </deps>
+    <deps>
+      ./Repository/SemiExp/1/SemiExp.h
+    </deps>
+  </root>

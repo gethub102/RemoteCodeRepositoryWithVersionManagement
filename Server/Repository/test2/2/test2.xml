@@ -1,0 +1,25 @@
+
+  <root>
+    <author>
+      Wenbin Li
+    
+    
+    
+    </author>
+    <close>
+      false
+    
+    
+    
+    </close>
+    <deps>
+      ./Repository/test2.txt
+    
+    
+    </deps>
+    <deps>
+      ./Repository/test2.png
+    
+    
+    </deps>
+  </root>

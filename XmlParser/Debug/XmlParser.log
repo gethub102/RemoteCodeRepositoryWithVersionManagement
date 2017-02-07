@@ -1,0 +1,24 @@
+﻿Build started 5/4/16 4:27:59 PM.
+     1>Project "C:\Users\wenbinli\Documents\OOD\Proj4\XmlParser\XmlParser.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D zTEST_XMLPARSER /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\XmlParser.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Utilities\Utilities.cpp ..\XmlDocument\XmlDocument.cpp ..\XmlElementParts\Tokenizer.cpp ..\XmlElementParts\xmlElementParts.cpp ..\XmlElement\XmlElement.cpp XmlParser.cpp
+         XmlParser.cpp
+         XmlElement.cpp
+         xmlElementParts.cpp
+         Tokenizer.cpp
+         XmlDocument.cpp
+         Utilities.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\wenbinli\Documents\OOD\Proj4\Debug\XmlParser.lib" /NOLOGO Debug\Utilities.obj
+         Debug\XmlDocument.obj
+         Debug\Tokenizer.obj
+         Debug\xmlElementParts.obj
+         Debug\XmlElement.obj
+         Debug\XmlParser.obj
+         XmlParser.vcxproj -> C:\Users\wenbinli\Documents\OOD\Proj4\Debug\XmlParser.lib
+     1>Done Building Project "C:\Users\wenbinli\Documents\OOD\Proj4\XmlParser\XmlParser.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.28

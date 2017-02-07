@@ -1,0 +1,32 @@
+﻿Build started 5/4/16 4:28:14 PM.
+     1>Project "C:\Users\wenbinli\Documents\OOD\Proj4\RequestHandler\RequestHandler.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D zTEST_REQUESTHANDLER /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\RequestHandler.pdb" /Gd /TP /analyze- /errorReport:prompt ..\FileMgr\FileSystem.cpp ..\HttpMessage\HttpMessage.cpp ..\Logger\Logger.cpp ..\Sockets\Sockets.cpp ..\Utilities\Utilities.cpp ..\XmlDocument\XmlDocument.cpp ..\XmlElementParts\xmlElementParts.cpp ..\XmlElement\XmlElement.cpp ..\XmlParser\XmlParser.cpp RequestHandler.cpp
+         RequestHandler.cpp
+         XmlParser.cpp
+         XmlElement.cpp
+         xmlElementParts.cpp
+         XmlDocument.cpp
+         Utilities.cpp
+         Sockets.cpp
+         Logger.cpp
+         HttpMessage.cpp
+         FileSystem.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\wenbinli\Documents\OOD\Proj4\Debug\RequestHandler.lib" /NOLOGO Debug\FileSystem.obj
+         Debug\HttpMessage.obj
+         Debug\Logger.obj
+         Debug\Sockets.obj
+         Debug\Utilities.obj
+         Debug\XmlDocument.obj
+         Debug\xmlElementParts.obj
+         Debug\XmlElement.obj
+         Debug\XmlParser.obj
+         Debug\RequestHandler.obj
+         RequestHandler.vcxproj -> C:\Users\wenbinli\Documents\OOD\Proj4\Debug\RequestHandler.lib
+     1>Done Building Project "C:\Users\wenbinli\Documents\OOD\Proj4\RequestHandler\RequestHandler.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.92

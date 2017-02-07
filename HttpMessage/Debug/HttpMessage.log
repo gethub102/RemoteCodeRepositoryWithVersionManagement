@@ -1,0 +1,16 @@
+﻿Build started 5/4/16 4:28:00 PM.
+     1>Project "C:\Users\wenbinli\Documents\OOD\Proj4\HttpMessage\HttpMessage.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D zTEST_HTTPMESSAGE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\HttpMessage.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Utilities\Utilities.cpp HttpMessage.cpp
+         HttpMessage.cpp
+         Utilities.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\wenbinli\Documents\OOD\Proj4\Debug\HttpMessage.lib" /NOLOGO Debug\Utilities.obj
+         Debug\HttpMessage.obj
+         HttpMessage.vcxproj -> C:\Users\wenbinli\Documents\OOD\Proj4\Debug\HttpMessage.lib
+     1>Done Building Project "C:\Users\wenbinli\Documents\OOD\Proj4\HttpMessage\HttpMessage.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.82

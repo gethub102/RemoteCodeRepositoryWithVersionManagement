@@ -1,0 +1,32 @@
+﻿Build started 5/4/16 4:28:25 PM.
+     1>Project "C:\Users\wenbinli\Documents\OOD\Proj4\Client\Client.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D zTEST_CLIENT /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\Client.pdb" /Gd /TP /analyze- /errorReport:prompt ..\BlockingQueue\BlockingQueue.cpp ..\FileMgr\FileSystem.cpp ..\HttpMessage\HttpMessage.cpp ..\Logger\Logger.cpp ..\Receiver\Receiver.cpp ..\RequestHandler\RequestHandler.cpp ..\Sender\Sender.cpp ..\Sockets\Sockets.cpp ..\Utilities\Utilities.cpp Client.cpp
+         Client.cpp
+         Utilities.cpp
+         Sockets.cpp
+         Sender.cpp
+         RequestHandler.cpp
+         Receiver.cpp
+         Logger.cpp
+         HttpMessage.cpp
+         FileSystem.cpp
+         BlockingQueue.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\wenbinli\Documents\OOD\Proj4\Debug\Client.lib" /NOLOGO Debug\BlockingQueue.obj
+         Debug\FileSystem.obj
+         Debug\HttpMessage.obj
+         Debug\Logger.obj
+         Debug\Receiver.obj
+         Debug\RequestHandler.obj
+         Debug\Sender.obj
+         Debug\Sockets.obj
+         Debug\Utilities.obj
+         Debug\Client.obj
+         Client.vcxproj -> C:\Users\wenbinli\Documents\OOD\Proj4\Debug\Client.lib
+     1>Done Building Project "C:\Users\wenbinli\Documents\OOD\Proj4\Client\Client.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.13

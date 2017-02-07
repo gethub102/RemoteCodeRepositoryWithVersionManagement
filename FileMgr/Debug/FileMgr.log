@@ -1,0 +1,16 @@
+﻿Build started 5/4/16 4:28:05 PM.
+     1>Project "C:\Users\wenbinli\Documents\OOD\Proj4\FileMgr\FileMgr.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D zTEST_SOURCE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\FileMgr.pdb" /Gd /TP /analyze- /errorReport:prompt FileMgr.cpp FileSystem.cpp
+         FileSystem.cpp
+         FileMgr.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\wenbinli\Documents\OOD\Proj4\Debug\FileMgr.lib" /NOLOGO Debug\FileMgr.obj
+         Debug\FileSystem.obj
+         FileMgr.vcxproj -> C:\Users\wenbinli\Documents\OOD\Proj4\Debug\FileMgr.lib
+     1>Done Building Project "C:\Users\wenbinli\Documents\OOD\Proj4\FileMgr\FileMgr.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.32

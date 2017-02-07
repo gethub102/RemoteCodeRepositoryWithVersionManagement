@@ -1,0 +1,32 @@
+﻿Build started 5/4/16 4:28:37 PM.
+     1>Project "C:\Users\wenbinli\Documents\OOD\Proj4\MockChannel\MockChannel.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _WINDLL /D _UNICODE /D UNICODE /D zTEST_MOCKCHANNEL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\BlockingQueue\BlockingQueue.cpp ..\HttpMessage\HttpMessage.cpp ..\Utilities\Utilities.cpp MockChannel.cpp
+         MockChannel.cpp
+         Utilities.cpp
+         HttpMessage.cpp
+         BlockingQueue.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wenbinli\Documents\OOD\Proj4\Debug\MockChannel.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\wenbinli\Documents\OOD\Proj4\Debug\MockChannel.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wenbinli\Documents\OOD\Proj4\Debug\MockChannel.lib" /MACHINE:X86 /DLL Debug\BlockingQueue.obj
+         Debug\HttpMessage.obj
+         Debug\Utilities.obj
+         Debug\MockChannel.obj
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\BlockingQueue.lib
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\XmlElementParts.lib
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\XmlElement.lib
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\XmlParser.lib
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\XmlDocument.lib
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\RequestHandler.lib
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\Client.lib
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\FileMgr.lib
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\HttpMessage.lib
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\Receiver.lib
+         C:\Users\wenbinli\Documents\OOD\Proj4\Debug\Sender.lib
+            Creating library C:\Users\wenbinli\Documents\OOD\Proj4\Debug\MockChannel.lib and object C:\Users\wenbinli\Documents\OOD\Proj4\Debug\MockChannel.exp
+         MockChannel.vcxproj -> C:\Users\wenbinli\Documents\OOD\Proj4\Debug\MockChannel.dll
+     1>Done Building Project "C:\Users\wenbinli\Documents\OOD\Proj4\MockChannel\MockChannel.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.59

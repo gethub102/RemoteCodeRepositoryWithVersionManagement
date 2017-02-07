@@ -1,0 +1,1 @@
+devenv StringSocketServer.sln /rebuild debug
